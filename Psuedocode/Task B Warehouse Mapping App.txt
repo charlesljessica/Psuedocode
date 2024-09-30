@@ -1,0 +1,15 @@
+Task B: Warehouse Mapping App
+Open the App: Welcome the user to the Warehouse Mapping App.
+Set Up:
+Define the warehouse layout utilizing a grid.
+Mark the starting position of the customer.
+Ask for the target location coordinates.
+Navigation:
+While the customer has not reached the target:
+Show the available directions (north, south, east, west).
+Get the customer’s chosen direction.
+Move the customer in that direction.
+If the direction is invalid, ask the customer to choose again.
+Show the new position of the customer.
+If the customer reaches the target location, praise them and end the app.
+End: Thank the customer for using the app.

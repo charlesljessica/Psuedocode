@@ -1,0 +1,10 @@
+Task A: Number Guessing Game
+Start the Guessing Game: Choose a randomized number from 1 to 10.
+Set Attempts: You have 3 tries to guess the secret number.
+While you still have available attempts:
+Ask the player to make a guess of the number.
+If the player guessed correctly, praise the player and bring the game to an end.
+If the player guessed wrong, inform the player.
+Remove 1 attempt.
+If a player has available attempts, tell the player how many attempts they have left.
+If the player has no attempts left, notify the player of the correct number and end the game.

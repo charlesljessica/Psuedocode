@@ -1,0 +1,9 @@
+Task C: Product Package Counter
+Start Counting: Set a maximum of 50 products and a package size of 2.
+Count Packages:
+Begin counting from 2 to 50.
+While the current count is less than or equal to 50:
+Print the current count.
+Increase the count by 2.
+End: Finish counting once you reach the maximum.
+
